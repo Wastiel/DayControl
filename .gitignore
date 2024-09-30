@@ -396,3 +396,33 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Node modules (necessário para não versionar dependências)
+node_modules/
+
+# Diretório de build (arquivos gerados na construção do projeto)
+dist/
+
+# Arquivos temporários e de log
+tmp/
+*.log
+
+# Ambiente (opcional se você não quiser versionar suas variáveis de ambiente)
+.env
+
+# Arquivos de configuração do editor (VSCode)
+.vscode/
+
+# Arquivos de lock (evitar problemas entre npm e yarn)
+package-lock.json
+yarn.lock
+
+# Test coverage reports
+coverage/
+
+# Configuração do Angular CLI
+.angular/
+
+# Diretórios do sistema operacional
+.DS_Store  # macOS
+Thumbs.db  # Windows
