@@ -1,0 +1,16 @@
+{
+  "atividade": [
+    {
+      "id": "1",
+      "nome": "Corrida",
+      "descricao": "Ao ar Livre",
+      "tempo": 30
+    },
+    {
+      "id": "2",
+      "nome": "Caminhada",
+      "descricao": "Ao ar Livre",
+      "tempo": 60
+    }
+  ]
+}
