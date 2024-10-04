@@ -10,7 +10,7 @@ Construir para Adiquirir conhecimento. A ideia inicial é construir um app que e
     - Criar componente da Modal.
     - Exibir lista de registros mokada
 
-Exboço inicial da tela:
+Eaboço inicial da tela:
 
 ![Tela Inicial](./image/esboco_inicial_projeto.PNG)
 
