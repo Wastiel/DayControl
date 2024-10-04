@@ -12,7 +12,7 @@ Construir para Adiquirir conhecimento. A ideia inicial é construir um app que e
 
 Exboço inicial da tela:
 
-![Tela Inicial](./image/exboco_inicial_projeto.PNG)
+![Tela Inicial](./image/esboco_inicial_projeto.PNG)
 
 
 # Comandos utilizados
